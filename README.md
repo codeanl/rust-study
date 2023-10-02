@@ -2198,3 +2198,5 @@ Ferris 说：“当个好 rustacean，帮助蟹友奏好序曲（prelude）！�
 
 ## RUST 编程语言书
 https://doc.rust-lang.org/stable/book/
+
+https://tourofrust.com/00_zh-cn.html
